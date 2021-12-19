@@ -1,5 +1,5 @@
-# Tᴇʟᴇɢʀᴀᴍ Pᴍ Bᴏᴛ
-- Prabashwara's PM Bot
+# Tᴇʟᴇɢʀᴀᴍ Pᴍ Bᴏᴛ | ![GitHub repo size](https://img.shields.io/github/repo-size/PrabashwaraX/Pm-Bot?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/PrabashwaraX/Pm-Bot?color=red&label=Last%20commit&logo=damantha&logoColor=green)
+### Prabashwara's PM Bot
 
 | ![travel-website](https://telegra.ph/file/fdbf7e3d8dcc077cffaab.jpg) |
 |----------------------------------------------------------------------|
@@ -10,8 +10,19 @@
 # Deploy To Heroku
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WKRPrabashwara/Pm-Bot)  
+
+## New version Avaiilable on Telegram as [Pm Bot](https://t.me/TheAnkiVectorbot)
+## Pm Bot is the latest
+
+Should any be missing kindly let us know at [Pm Bot](https://t.me/ankivectorUpdates) or simply submit a pull request on the readme.
+
+## The Pm Bot the telegram Bot Project
+The Advanced Branch (For PRO's)
+
+The Pm Bot(advanced)
   
-##  Privat බන් ලික් කරන්න එපා❎ දැනුත් කලිනුත් ඉදිරියටත් මතු අනාගතයටත් මෙිව Privat
+# Contributors
+![GitHub Contributors Image](https://contrib.rocks/image?repo=PrabashwaraX/Pm-Bot)
   
 ## Devs & Special Credits ❤
 
