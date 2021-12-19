@@ -21,10 +21,10 @@ This source code is unmaintained. We recommend you not to use this source code. 
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WKRPrabashwara/Pm-Bot)  
 
-## New version Avaiilable on Telegram as [Pm Bot](https://t.me/TheAnkiVectorbot)
+## New version Avaiilable on Telegram as [Pm Bot](#)
 ## Pm Bot is the latest
 
-Should any be missing kindly let us know at [Pm Bot](https://t.me/ankivectorUpdates) or simply submit a pull request on the readme.
+Should any be missing kindly let us know at [Pm Bot](#) or simply submit a pull request on the readme.
 
 ## The Pm Bot the telegram Bot Project
 The Advanced Branch (For PRO's)
