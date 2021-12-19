@@ -1,0 +1,63 @@
+{
+    "name": "No Name",
+    "description": "Botek BN",
+    "logo": "https://telegra.ph/file/85726b2180dd1b251104f.jpg",
+    "keywords": [
+        "telegram",
+        "pyrogram",
+        "botek"
+    ],
+    "repository": "https://github.com/WKRPrabashwara/Pm-Bot",
+    "website": "https://damantha.tk",
+    "success_url": "https://t.me/MrItzMe",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Youre Bot Token",
+            "required": "True"
+        },
+        "APP_ID": {
+            "description": "App id bn",
+            "required": "True"
+        },
+        "API_HASH": {
+            "description": "uba danno ne",
+            "required": "True"
+        },
+        "OWNER": {
+            "description": "ube id eka",
+            "required": "True"
+        },
+        "BOT_USERNAME": {
+            "description": "botage username eka",
+            "required": "True"
+        },
+        "LOG_CHANNEL": {
+            "description": "log",
+            "required": "True"
+        },
+        "BROADCAST_AS_COPY": {
+            "description": "True kiyala dapam",
+            "required": "True",
+            "value": "True"
+        },
+        "MONGODB_URI": {
+            "description": "mongo",
+            "required": "True"
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
