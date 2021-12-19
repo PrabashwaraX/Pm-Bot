@@ -1,6 +1,16 @@
 # Tᴇʟᴇɢʀᴀᴍ Pᴍ Bᴏᴛ | ![GitHub repo size](https://img.shields.io/github/repo-size/PrabashwaraX/Pm-Bot?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/PrabashwaraX/Pm-Bot?color=red&label=Last%20commit&logo=damantha&logoColor=green)
 ### Prabashwara's PM Bot
 
+## Unmaintained. The new repo of @Pm-Bot is private.
+(It is no longer based on this source code. The completely rewritten bot available now on telegram)
+
+## JUST ANOTHER MODIFIED UNMAINTAINED SOURCE CODE
+### ⚠️ PLEASE NOTE EVERYONE MODIFY, DEPLOY OR FORK THIS SOURCE CODE
+This source code is unmaintained. We recommend you not to use this source code. Why Don't Use 👇
+- Not maintained
+- Older version of Daisy [NEW ONE CLOSED SOURCE]
+- Not compatible with latest updates of requirements
+
 | ![travel-website](https://telegra.ph/file/fdbf7e3d8dcc077cffaab.jpg) |
 |----------------------------------------------------------------------|
 <h4 align="center">- Rᴇᴠɪᴇᴡ -<h4>
